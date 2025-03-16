@@ -44,7 +44,16 @@
 Your Flutter SDK can be placed anywhere on your system. Common locations include:
 - macOS: /Users/<your_username>/development/flutter
 - Windows: C:\src\flutter
+### Directory Structure
+Your Flutter SDK can be placed anywhere on your system. Common locations include:
+- macOS: /Users/<your_username>/development/flutter
+- Windows: C:\src\flutter
 - Linux: /home/<your_username>/flutter
+
+**IMPORTANT:** For the third required library, download it from:
+[Download Third Library](https://github.com/tensorflow/tflite-micro-arduino-examples/tree/main)
+
+Ensure you follow the provided instructions to integrate it with your project.
 
 Ensure that you keep Flutter in a place where you have full read/write permissions.
 
