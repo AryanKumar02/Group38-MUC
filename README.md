@@ -55,7 +55,10 @@ Your Flutter SDK can be placed anywhere on your system. Common locations include
 
 Ensure you follow the provided instructions to integrate it with your project.
 
-Ensure that you keep Flutter in a place where you have full read/write permissions.
+## Real Device iOS Setup - iPhone
+
+- Ensure that the Flutter SDK is located in a directory where you have full read/write permissions.
+- When using an actual iPhone, connect it via USB and then select your iPhone directly from Xcode’s toolbar at the top. This method bypasses the need for the "flutter devices" command if your device does not appear.
 
 ### Detailed Flutter Installation
 1. After downloading and extracting Flutter to your chosen directory:
